@@ -27,4 +27,5 @@ CSS was not a focus of this project, rather the correct implementation of the ap
 
 With my implementation, I managed to pass the test with a green score and received very positive feedback.
 
-[!ReactTodo](/ReactTodo.png)
+## Image:
+![Image1](/ReactTodo.png)
