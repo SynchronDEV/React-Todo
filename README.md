@@ -1,4 +1,6 @@
 # React-Todo
+Run the project using `npm i && npm start`.
+
 React Todo App made for a weekend test during my studies at &lt;/salt>
 
 The requirements were to build a frontend todo app using React, as well as a few technical specifications to adhere to. These were:
