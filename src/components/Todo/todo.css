@@ -1,0 +1,24 @@
+.todo {
+  background-color: darkred;
+  width: 300px;
+  height: auto;
+  overflow: overlay;
+}
+
+.todo--done {
+  background-color: darkgray;
+  text-decoration: line-through;
+}
+
+.todo button {
+  width: 50%;
+  background-color: orangered;
+  color: white;
+  font-size: 22px;
+  height: auto;
+}
+
+.todo button:hover {
+  background-color: orange;
+  cursor: pointer;
+}
