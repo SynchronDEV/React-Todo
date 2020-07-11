@@ -23,4 +23,6 @@ The requirements were to build a frontend todo app using React, as well as a few
 		The original order of the cards must be maintained if a card is toggled to 'done', and then back again (also solved using underscore.js)
 		
 		
+CSS was not a focus of this project, rather the correct implementation of the application using React was asked for.
+
 With my implementation, I managed to pass the test with a green score and received very positive feedback.
