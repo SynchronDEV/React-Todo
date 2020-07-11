@@ -1,5 +1,5 @@
 # React-Todo
-Run the project using `npm i && npm start`.
+## Run the project using `npm i && npm start`.
 
 React Todo App made for a weekend test during my studies at &lt;/salt>
 
